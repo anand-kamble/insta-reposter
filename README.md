@@ -11,4 +11,4 @@ node index.js --username --password --accounts --time
   accounts = Usernames of Accounts you want to repost from without '@' and seperated by ,(comma).  
   time = time interval between two posts in seconds.  
 
->This programe does not repost videos. It only reposts Images.
+>This programe does not repost videos. It can only repost Images.
