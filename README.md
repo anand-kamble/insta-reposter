@@ -2,8 +2,9 @@
 Bot that reposts posts images from the given accounts.
 
 Usage:
+```
 node index.js --username --password --accounts --time
-
+```
 where :
   username = Your Instagram account's username 
   password = Your Instagram account's password
