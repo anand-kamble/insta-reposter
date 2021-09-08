@@ -3,6 +3,12 @@ Bot that reposts posts images from the given accounts.
 
 ***Usage:***
 ```
+node index.js
+```
+Run this command in the terminal and the program will ask you for the required information.
+
+Alternatively you can also use following command.
+```
 node index.js --username --password --accounts --time
 ```
 
